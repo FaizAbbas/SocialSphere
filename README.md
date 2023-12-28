@@ -1,4 +1,4 @@
-# Twitter_Not_Twitter
+# Social_Sphere
 # Requirements
 
 - User should be able to create a post
